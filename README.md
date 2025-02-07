@@ -22,7 +22,7 @@ PayPal Payment Integration using PHP &amp; MySQL allows secure online transactio
 
 ### **Step 2: Set Up the Project**  
 1. Copy the project folder (`ppp`) to:  C:\xampp\htdocs\
-2. 2. Open **phpMyAdmin** (`http://localhost/phpmyadmin/`).  
+2. Open **phpMyAdmin** (`http://localhost/phpmyadmin/`).  
 3. Create a new database:  ```sql CREATE DATABASE paypal;
 4. Click Import → Select transactions.sql from SQL folder → Click Go.
 

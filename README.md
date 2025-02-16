@@ -32,3 +32,11 @@ PayPal Payment Integration using PHP &amp; MySQL allows secure online transactio
 1. Open your browser and visit: http://localhost/ppp/index.php
 2. Click PayPal Checkout and complete the payment.
 3. You’ll be redirected to payment-status.php after payment.
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<p align="center"> © 2025 Nelayn Abbas, All Rights Reserved. </p>
+<p align="center">
+https://github.com/NelaynAbbas
+</p>
